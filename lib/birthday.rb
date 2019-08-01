@@ -12,7 +12,7 @@ def happy_birthday(birthday_kids)
 end
 
 def age_appropriate_birthday(passengers)
-  
+  birthday_kids.each do |kid, age|
 end
 
 happy_birthday(birthday_kids)
