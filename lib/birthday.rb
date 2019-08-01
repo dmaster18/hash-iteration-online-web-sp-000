@@ -11,7 +11,7 @@ def happy_birthday(birthday_kids)
   # add your code snippet here!
 end
 
-def age_appropriate_birthday(passengers)
+def age_appropriate_birthday(birthday_kids)
   passengers.each do |kid, age|
     if age <= 12 
         puts "Happy Birthday #{kid}! You are now #{age} years old!"
