@@ -19,6 +19,7 @@ def age_appropriate_birthday(passengers)
       end
     else
       puts "You are too old sir! Get out of here"
+    end
 end
 
 happy_birthday(birthday_kids)
