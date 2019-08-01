@@ -17,7 +17,5 @@ def select_winner(passengers)
   # add the code snippet here!
 end
 
-def age_appropriate_birthday(passengers)
-  winner = " "
-end
+
 puts select_winner(passengers)
