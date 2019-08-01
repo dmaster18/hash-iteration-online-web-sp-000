@@ -18,7 +18,7 @@ def age_appropriate_birthday(passengers)
         puts "Happy Birthday #{kid}! You are now #{age} years old!"
       end
     else
-      
+      puts 
 end
 
 happy_birthday(birthday_kids)
