@@ -23,3 +23,4 @@ def age_appropriate_birthday(passengers)
 end
 
 happy_birthday(birthday_kids)
+age_appropriate_birthday(passengers)
