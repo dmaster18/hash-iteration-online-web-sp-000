@@ -18,4 +18,5 @@ def select_winner(passengers)
 end
 
 def age_appropriate_birthday(passengers)
+end
 puts select_winner(passengers)
