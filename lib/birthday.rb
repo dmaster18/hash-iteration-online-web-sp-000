@@ -11,4 +11,8 @@ def happy_birthday(birthday_kids)
   # add your code snippet here!
 end
 
+def age_appropriate_birthday(passengers)
+  winner = " "
+end
+
 happy_birthday(birthday_kids)
